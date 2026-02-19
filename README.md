@@ -43,7 +43,7 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 <br><sub><b>HTML5</b></sub>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="45" height="45" alt="CSS3"/>
+<img src="https://cdn.simpleicons.org/css/1572B6" width="45" height="45" alt="CSS3"/>
 <br><sub><b>CSS3</b></sub>
 </td>
 </tr>
@@ -127,7 +127,7 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 <br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45" alt="VS Code"/>
+<img src="https://cdn.simpleicons.org/vscode/007ACC" width="45" height="45" alt="VS Code"/>
 <br><sub><b>VS Code</b></sub>
 </td>
 </tr>
