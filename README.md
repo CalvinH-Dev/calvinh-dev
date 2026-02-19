@@ -6,6 +6,8 @@
 
 *Building things that are fast, typed, and maintainable — from database to DOM.*
 
+[![Profile Views](https://komarev.com/ghpvc/?username=calvin&color=0e75b6&style=flat)](https://github.com/calvin)
+
 </div>
 
 ---
@@ -21,33 +23,115 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python"/>
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="45" height="45" alt="TypeScript"/>
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript"/>
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="45" height="45" alt="HTML5"/>
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="45" height="45" alt="CSS3"/>
+<br><sub><b>CSS3</b></sub>
+</td>
+</tr>
+</table>
 
 ### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SAP](https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45" height="45" alt="Node.js"/>
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/django/092E20" width="45" height="45" alt="Django REST"/>
+<br><sub><b>Django REST</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAPUI5"/>
+<br><sub><b>SAPUI5</b></sub>
+</td>
+</tr>
+</table>
 
 ### Frontend & Frameworks
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/angular/DD0031" width="45" height="45" alt="Angular"/>
+<br><sub><b>Angular</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/astro/FF5D01" width="45" height="45" alt="Astro"/>
+<br><sub><b>Astro</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/lit/324FFF" width="45" height="45" alt="Lit"/>
+<br><sub><b>Lit</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/swiper/6332F6" width="45" height="45" alt="Swiper.js"/>
+<br><sub><b>Swiper.js</b></sub>
+</td>
+</tr>
+</table>
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" height="45" alt="MongoDB"/>
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="45" height="45" alt="Firebase"/>
+<br><sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/postgresql/4479A1" width="45" height="45" alt="SQL"/>
+<br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP HANA"/>
+<br><sub><b>SAP HANA</b></sub>
+</td>
+</tr>
+</table>
 
 ### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="Linux"/>
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git"/>
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45" alt="VS Code"/>
+<br><sub><b>VS Code</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -65,8 +149,18 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 
 ## 🧪 Testing
 
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="45" height="45" alt="Pytest"/>
+<br><sub><b>Pytest</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/jasmine/8A4182" width="45" height="45" alt="Jasmine"/>
+<br><sub><b>Jasmine</b></sub>
+</td>
+</tr>
+</table>
 
 Testing is part of how I build, not something I add at the end. On the Python side I'm experienced with **pytest** — writing unit tests, fixtures, parametrize, and mocking with `unittest.mock`. I'm also familiar with testing Django REST Framework endpoints. On the frontend side I know my way around **Jasmine** and Angular's built-in testing utilities for component and service tests.
 
@@ -74,13 +168,28 @@ Testing is part of how I build, not something I add at the end. On the Python si
 
 ## ⚙️ Project Setup & Code Quality
 
-I take project scaffolding seriously. A well-configured project saves everyone time.
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/eslint/4B32C3" width="45" height="45" alt="ESLint"/>
+<br><sub><b>ESLint</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/prettier/F7B93E" width="45" height="45" alt="Prettier"/>
+<br><sub><b>Prettier</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/stylelint/263238" width="45" height="45" alt="Stylelint"/>
+<br><sub><b>Stylelint</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/ruff/D7FF64" width="45" height="45" alt="Ruff"/>
+<br><sub><b>Ruff</b></sub>
+</td>
+</tr>
+</table>
 
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Stylelint](https://img.shields.io/badge/Stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
-![OXC](https://img.shields.io/badge/OXC-F75000?style=for-the-badge&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logoColor=black)
+I take project scaffolding seriously. A well-configured project saves everyone time — from linting and formatting rules to consistent code style enforced across the whole team.
 
 ---
 
@@ -95,7 +204,7 @@ I take project scaffolding seriously. A well-configured project saves everyone t
 
 ## 📦 Other Technologies Worth Mentioning
 
-`Swiper.js` · `@hotwired/Turbo` · `@hotwired/Stimulus` · `Hotwire` · Web Components · `<picture>` / responsive images · SVG scripting & animation
+`@hotwired/Turbo` · `@hotwired/Stimulus` · `Hotwire` · Web Components · `<picture>` / responsive images · SVG scripting & animation
 
 ---
 
