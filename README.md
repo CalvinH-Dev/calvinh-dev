@@ -2,7 +2,7 @@
 
 # Hey, I'm Calvin 👋
 
-**Full-Stack Web Developer · 5 Years of Experience**
+**Full-Stack Web Developer**
 
 *Building things that are fast, typed, and maintainable — from database to DOM.*
 
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-I'm a full-stack web developer with 5 years of experience, continuously deepening my knowledge across frameworks, tooling, and the inner workings of technologies I already know well. I care about code quality, meaningful architecture, and shipping things that are actually well-built.
+I'm a full-stack web developer with 5 years of programming experience, continuously deepening my knowledge across frameworks, tooling, and the inner workings of technologies I already know well. I care about code quality, meaningful architecture, and shipping things that are actually well-built.
 
 For three years, I worked part-time as a web developer at a hospital — building and maintaining an internal patient management system using **SAPUI5** and **SAP HANA**. That role taught me how to develop reliably in structured enterprise environments where things really need to work.
 
