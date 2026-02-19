@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Calvin 👋
 
 **Full-Stack Web Developer · 5 Years of Experience**
 
 *Building things that are fast, typed, and maintainable — from database to DOM.*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat)](https://github.com/yourusername)
 
 </div>
 
@@ -62,6 +60,15 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 **SVG & Frontend Optimization** — I work with SVGs in detail (animations, accessibility, scripting) and take image delivery seriously via the `<picture>` element and responsive formats. For Angular, I use advanced bundle analysis tooling to keep builds lean.
 
 **Debugging** — One of my genuine strengths. Whether it's a tricky backend trace, a JavaScript runtime issue, or a CSS layout problem — I approach it methodically. CSS debugging is something I'm particularly comfortable with.
+
+---
+
+## 🧪 Testing
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+
+Testing is part of how I build, not something I add at the end. On the Python side I'm experienced with **pytest** — writing unit tests, fixtures, parametrize, and mocking with `unittest.mock`. I'm also familiar with testing Django REST Framework endpoints. On the frontend side I know my way around **Jasmine** and Angular's built-in testing utilities for component and service tests.
 
 ---
 
