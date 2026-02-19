@@ -6,8 +6,6 @@
 
 *Building things that are fast, typed, and maintainable — from database to DOM.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=calvin&color=0e75b6&style=flat)](https://github.com/calvin)
-
 </div>
 
 ---
