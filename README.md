@@ -160,7 +160,7 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 </tr>
 </table>
 
-Testing is part of how I build, not something I add at the end. On the Python side I'm experienced with **pytest** — writing unit tests, fixtures, parametrize, and mocking with `unittest.mock`. I'm also familiar with testing Django REST Framework endpoints. On the frontend side I know my way around **Jasmine** and Angular's built-in testing utilities for component and service tests.
+Testing is part of how I build, not something I add at the end. I'm familiar with testing Django REST Framework endpoints.
 
 ---
 
