@@ -106,6 +106,10 @@ For three years, I worked part-time as a web developer at a hospital — buildin
 <br><sub><b>SQL</b></sub>
 </td>
 <td align="center" width="110">
+<img src="https://cdn.simpleicons.org/sqlite/003B57" width="45" height="45" alt="SQLite"/>
+<br><sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="45" height="45" alt="SAP HANA"/>
 <br><sub><b>SAP HANA</b></sub>
 </td>
